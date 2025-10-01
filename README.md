@@ -27,6 +27,8 @@ Welcome to my detailed skills page — here you’ll find my languages, tools, c
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
@@ -84,6 +86,12 @@ Welcome to my detailed skills page — here you’ll find my languages, tools, c
 🟩🟩🟩⬜⬜ (Learning)  
 
 **PowerShell**  
+🟩⬜⬜⬜⬜ (Introductory)  
+
+**Zapier**  
+🟩🟩🟩🟩⬜ (Strong)  
+
+**Salesforce**  
 🟩⬜⬜⬜⬜ (Introductory)  
 
 ---
