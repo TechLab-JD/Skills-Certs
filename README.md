@@ -105,6 +105,7 @@ Welcome to my detailed skills page — here you’ll find my languages, tools, c
 [![Cert](https://img.shields.io/badge/LinkedIn-Practical_GitHub_Copilot-blue?logo=linkedin)]()
 [![Cert](https://img.shields.io/badge/LinkedIn-Practical_GitHub_Project_Management-blue?logo=linkedin)]()
 
+
 ---
 
 ### 📊 Data / Productivity
@@ -114,6 +115,8 @@ Welcome to my detailed skills page — here you’ll find my languages, tools, c
 ---
 
 ### 🌟 Professional Skills
+
+#### LinkedIn Learning
 [![Cert](https://img.shields.io/badge/LinkedIn-The_Six_Morning_Habits_of_High_Performers-blue?logo=linkedin)]()
 [![Cert](https://img.shields.io/badge/LinkedIn-Decision_Making_Strategies-blue?logo=linkedin)]()
 [![Cert](https://img.shields.io/badge/LinkedIn-Develop_Interpersonal_Skills_for_Inclusive_Workplaces-blue?logo=linkedin)]()
@@ -130,6 +133,12 @@ Welcome to my detailed skills page — here you’ll find my languages, tools, c
 [![Cert](https://img.shields.io/badge/LinkedIn-Problem_Solving_Techniques-blue?logo=linkedin)]()
 [![Cert](https://img.shields.io/badge/LinkedIn-Managing%20Your%20Time%20Tips-blue?logo=linkedin)]()
 [![Cert](https://img.shields.io/badge/LinkedIn-Success_Habits-blue?logo=linkedin)]()
+
+---
+
+#### Cisco
+[![Cert](https://img.shields.io/badge/Cisco-Computer_Hardware_Basics-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/4fca1bba-e119-4267-9e09-82fd5a13d70b)
+[![Cert](https://img.shields.io/badge/Cisco-Operating_Systems_Basics-blue?logo=cisco)]()
 
 ---
 
