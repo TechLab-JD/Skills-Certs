@@ -138,7 +138,7 @@ Welcome to my detailed skills page — here you’ll find my languages, tools, c
 
 #### Cisco
 [![Cert](https://img.shields.io/badge/Cisco-Computer_Hardware_Basics-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/4fca1bba-e119-4267-9e09-82fd5a13d70b)
-[![Cert](https://img.shields.io/badge/Cisco-Operating_Systems_Basics-blue?logo=cisco)]()
+[![Cert](https://img.shields.io/badge/Cisco-Operating_Systems_Basics-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/1df226c1-c45b-4deb-a6cf-271d8dfc29e1)
 
 ---
 
