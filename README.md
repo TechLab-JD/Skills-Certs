@@ -98,7 +98,9 @@ Welcome to my detailed skills page — here you’ll find my languages, tools, c
 
 ## 📜 Certifications
 
-### 🐙 GitHub / Technical
+---
+
+#### 🐙 GitHub / Technical
 [![Cert](https://img.shields.io/badge/GitHub-Career_Essentials_Professional_Certificate-blue?logo=github)]()
 [![Cert](https://img.shields.io/badge/LinkedIn-Practical_GitHub_Code_Search-blue?logo=linkedin)]()
 [![Cert](https://img.shields.io/badge/LinkedIn-Practical_GitHub_Actions-blue?logo=linkedin)]()
@@ -108,15 +110,15 @@ Welcome to my detailed skills page — here you’ll find my languages, tools, c
 
 ---
 
-### 📊 Data / Productivity
+#### 📊 Data / Productivity
 [![Cert](https://img.shields.io/badge/LinkedIn-Google_Sheets_Advanced_Formulas-blue?logo=linkedin)]()
 [![Cert](https://img.shields.io/badge/LinkedIn-Excel_Essential_Training_(365)-blue?logo=linkedin)]()
 
 ---
 
-### 🌟 Professional Skills
+#### 🌟 Professional Skills
 
-#### LinkedIn Learning
+##### LinkedIn Learning
 [![Cert](https://img.shields.io/badge/LinkedIn-The_Six_Morning_Habits_of_High_Performers-blue?logo=linkedin)]()
 [![Cert](https://img.shields.io/badge/LinkedIn-Decision_Making_Strategies-blue?logo=linkedin)]()
 [![Cert](https://img.shields.io/badge/LinkedIn-Develop_Interpersonal_Skills_for_Inclusive_Workplaces-blue?logo=linkedin)]()
