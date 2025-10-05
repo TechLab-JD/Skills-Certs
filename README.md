@@ -92,7 +92,7 @@ Welcome to my detailed skills page — here you’ll find my languages, tools, c
 🟩🟩🟩🟩⬜ (Strong)  
 
 **Salesforce**  
-🟩⬜⬜⬜⬜ (Introductory)  
+🟩🟩🟩⬜⬜ (Learning)  
 
 ---
 
@@ -106,7 +106,8 @@ Welcome to my detailed skills page — here you’ll find my languages, tools, c
 [![Cert](https://img.shields.io/badge/LinkedIn-Practical_GitHub_Actions-blue?logo=linkedin)]()
 [![Cert](https://img.shields.io/badge/LinkedIn-Practical_GitHub_Copilot-blue?logo=linkedin)]()
 [![Cert](https://img.shields.io/badge/LinkedIn-Practical_GitHub_Project_Management-blue?logo=linkedin)]()
-
+[![Cert](https://img.shields.io/badge/NetAcad-IoT_Foundations-blue?logo=Salesforce)]()
+[![Cert](https://img.shields.io/badge/Salesforce-Admin_Beginner-blue?logo=NetAcad)](https://www.credly.com/badges/3e4070f6-a854-4f8a-968c-31035c92ef82/public_url)
 
 ---
 
@@ -141,7 +142,7 @@ Welcome to my detailed skills page — here you’ll find my languages, tools, c
 #### Cisco
 [![Cert](https://img.shields.io/badge/Cisco-Computer_Hardware_Basics-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/4fca1bba-e119-4267-9e09-82fd5a13d70b)
 [![Cert](https://img.shields.io/badge/Cisco-Operating_Systems_Basics-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/1df226c1-c45b-4deb-a6cf-271d8dfc29e1)
-[![Cert](https://img.shields.io/badge/DataCorp-Data_Analytics_Foundations-blue?logo=datacorp)](https://www.credly.com/earner/earned/share/a4f514d5-0b6f-4c6c-8c36-59cf0d1b9f2e)
+[![Cert](https://img.shields.io/badge/Cisco-Data_Analytics_Foundations-blue?logo=datacorp)](https://www.credly.com/earner/earned/share/a4f514d5-0b6f-4c6c-8c36-59cf0d1b9f2e)
 
 ---
 
